@@ -1,5 +1,5 @@
 # Inception_ResNet_V2
-Implementation and Training Inception ResNet v2
+Implementation and Training Inception ResNet v2 using pytorch
 
 ![alt text](https://github.com/yerkesh/Inception_ResNet_V2/blob/master/architecture/inception_resnet_v2.png?raw=true)
 
@@ -34,7 +34,7 @@ Inception ResNet v2 B block architecture
 
 
 
-Inception ResNet v2 A-Reduction architecture
+Inception ResNet v2 B-Reduction architecture
 
 ![alt text](https://github.com/yerkesh/Inception_ResNet_V2/blob/master/architecture/Reduction_B.png?raw=true)
 
